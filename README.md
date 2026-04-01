@@ -1,4 +1,4 @@
-# Hithiaishini — Developer Portfolio
+# Akshay Kumar H — Developer Portfolio
 
 A full-stack portfolio site with a visitor-reviews feature.
 
